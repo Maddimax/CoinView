@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Coin.qml</file>
+        <file>ExchangeRates.qml</file>
+    </qresource>
+</RCC>
