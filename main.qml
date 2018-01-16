@@ -5,7 +5,7 @@ import QtQuick.Layouts 1.3
 ApplicationWindow {
 	id: appWindow
 	visible: true
-	width: 1270/4
+	width: 1270/3.5
 	height: coinList.contentHeight + 10
 	visibility: ApplicationWindow.Hidden
 	flags: Qt.Window | Qt.FramelessWindowHint
